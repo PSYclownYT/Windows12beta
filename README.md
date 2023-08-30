@@ -1,3 +1,5 @@
+![wallpaper](https://github.com/PSYclownYT/Windows12beta/assets/116015847/07357947-07c4-4c28-a435-9daac520912c)
+
 # Windows 12
 windows 12 is a test of the capabilities of turbowarp. This was all made on a crappy laptop.
 
