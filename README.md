@@ -1,6 +1,8 @@
 ![wallpaper](https://github.com/PSYclownYT/Windows12beta/assets/116015847/07357947-07c4-4c28-a435-9daac520912c)
-<p style="text-align: center;">
+<p style="text-align: center;">"
+
 # Windows 12
+
 windows 12 is a test of the capabilities of turbowarp. This was all made on a crappy laptop.
 
 projects used: 
@@ -17,4 +19,4 @@ After making your changes, PLEASE open a pull request, I want to see what you al
 
 # Warning!
 do not use the Iframe extension. it causes frequent breakages, and just all together doesn't work.
-</p>
+"</p>
